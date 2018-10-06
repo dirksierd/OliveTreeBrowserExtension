@@ -1,0 +1,8 @@
+.olivetree-link {
+  border-bottom: #7FB200 2px dotted !important;
+  color: inherit !important;
+  font-weight: bold !important;
+}
+.olivetree-link:hover {
+  color: #7FB200 !important;
+}
