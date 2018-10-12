@@ -1,6 +1,6 @@
 {
   "name": "Open in Olive Tree",
-  "version": "1.0",
+  "version": "0.5",
   "description": "Open Bible-references in Olive Tree",
   "manifest_version": 2,
   "content_scripts": [
